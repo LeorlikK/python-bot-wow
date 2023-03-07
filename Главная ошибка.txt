@@ -1,0 +1,81 @@
+C:\Users\leorl\AppData\Local\Programs\Python\Python39\python.exe D:/Python/Crazy/MK23.05.2022.py
+Имя документа: Coordinat_2.txt, Длина документа: 17
+Имя документа: Resources\Elusive_Rich_Elethium_Deposit(197).txt, Длина документа: 198
+Имя документа: Resources\Rich_Elethium_Deposit(137).txt, Длина документа: 139
+Имя документа: Resources\Elethium_Deposit(316).txt, Длина документа: 315
+Имя документа: Resources\Elusive_Rich_Progenium_Deposit(197).txt, Длина документа: 198
+Имя документа: Resources\Elusive_Progenium_Deposit(247).txt, Длина документа: 247
+Имя документа: Resources\Rich_Progenium_Deposit(88).txt, Длина документа: 87
+Имя документа: Resources\Progenium_Deposit(92).txt, Длина документа: 91
+Имя документа: Resources\Forgotten_Treasure_Vault(60).txt, Длина документа: 60
+Имя документа: Resources\Discarded_Automa_Scrap(18).txt, Длина документа: 18
+Имя документа: Resources\Cypher_Bound_Chest(107).txt, Длина документа: 107
+Имя документа: Resources\Tarachnid_Eggs(5).txt, Длина документа: 4
+Имя документа: Resources\Avian_Nest(38).txt, Длина документа: 38
+Имя документа: Resources\Mawsworn_Supply_Chest(34).txt, Длина документа: 30
+Инициализация класса: успех...
+Загружено изображение: Masha/1.png
+Загружено изображение: Masha/2.png
+Загружено изображение: Masha/3.png
+Загружено изображение: Masha/4.png
+Загружено изображение: Masha/test2.png
+Загружено изображение: Masha/6.png
+Загружено изображение: Masha/7.png
+Загружено изображение: Masha/8.png
+Загружено изображение: Masha/9.png
+Загружено изображение: Masha/10.png
+Загружено изображение: Masha/11.png
+Загружено изображение: Masha/12.png
+Загружено изображение: Masha/13.png
+Загружено изображение: Masha/14.png
+Загружено изображение: Masha/15.png
+Загружено изображение: Masha/16.png
+Загружено изображение: Masha/Elusive_Rich_Elethium_Deposit.png
+Загружено изображение: Masha/Rich_Elethium_Deposit.png
+Загружено изображение: Masha/Elethium_Deposit.png
+Загружено изображение: Masha/Elusive_Rich_Progenium_Deposit.png
+Загружено изображение: Masha/Elusive_Progenium_Deposit.png
+Загружено изображение: Masha/Rich_Progenium_Deposit.png
+Загружено изображение: Masha/Progenium_Deposit.png
+Загружено изображение: Masha/forgotten_treasure_vault.png
+Загружено изображение: Masha/discarded_automa_scrap.png
+Загружено изображение: Masha/cypher_bound_chest.png
+Загружено изображение: Masha/tarachnid_eggs.png
+Загружено изображение: Masha/avian_nest.png
+Загружено изображение: Masha/mawsworn_supply_chest.png
+Загружено изображение: Masha/form.png
+Загружено изображение: Masha/convoke.png
+Загружено изображение: Masha/celestial.png
+Загружено изображение: Masha/disconnect.png
+Загружено изображение: Masha/dead_1.png
+Загружено изображение: Masha/dead_2.png
+Загружено изображение: Masha/dead_3.png
+Загружено изображение: Masha/dead_4.png
+Загружено изображение: Masha/pocopoc_buff_1.png
+Загружено изображение: Masha/pocopoc_buff_2.png
+Загружено изображение: Masha/check_pocopoc.png
+Загружено изображение: Masha/enter_world.png
+Загружено изображение: Masha/check_enter_world.png
+Все координаты сброшены . . .
+Здоровье игрока отсутствует >>> dead
+Все координаты сброшены . . .
+Взгляд игрока равен положению игрока по x или y: 
+0.0 0.19999999999999574 65.07 41.41
+2022-05-23 19:47:54.795830  <<<start>>> 
+
+2022-05-23 19:47:55.646861  <<<start>>> 
+
+2022-05-23 19:47:56.410384  <<<start>>> 
+
+Взгляд игрока равен положению игрока по x или y: 
+0.27999999999999403 0.0 64.02 40.33
+2022-05-23 19:47:57.146595  <<<start>>> 
+
+2022-05-23 19:47:57.888832  <<<start>>> 
+
+2022-05-23 19:47:58.629835  <<<start>>> 
+
+2022-05-23 19:47:59.382802  <<<start>>> 
+
+2022-05-23 19:48:00.161028  <<<start>>> 
+

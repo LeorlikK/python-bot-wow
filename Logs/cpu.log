@@ -1,0 +1,6 @@
+5/23 11:12:56.433  vendor: GenuineIntel
+5/23 11:12:56.433  branding:        Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz
+5/23 11:12:56.433  features: lahf64 cmpxchg16b sse sse2 sse3 ssse3 sse41 sse42 avx aesni clmul rdrand 
+5/23 11:12:56.433  sockets: 1
+5/23 11:12:56.433  cores: 4
+5/23 11:12:56.433  threads: 8

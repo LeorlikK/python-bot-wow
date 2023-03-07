@@ -1,0 +1,160 @@
+{
+ "profile": "k",
+ "k": {
+  "bot_id": "",
+  "telegram_id": 1059208615,
+  "password": "pristxolidc2013",
+  "tesseract": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "way": "D:/Games/World of Warcraft/_retail_/Wow.exe",
+  "map_center": [
+   1786,
+   133
+  ],
+  "hp_color": [
+   23,
+   137,
+   255,
+   255
+  ],
+  "hp_position": [
+   585,
+   947
+  ],
+  "hp_position2": [
+   947,
+   948,
+   585,
+   825
+  ],
+  "pocopoc_color": [
+   89,
+   188,
+   88,
+   255
+  ],
+  "pocopoc_position": [
+   1200,
+   930
+  ],
+  "combat_color": [
+   207,
+   13,
+   255
+  ],
+  "combat_position": [
+   1884,
+   785
+  ],
+  "scull_color": [
+   207,
+   13,
+   255
+  ],
+  "scull_position": [
+   1825,
+   760
+  ],
+  "astral_color": [
+   90,
+   58,
+   47,
+   255
+  ],
+  "astral_position": [
+   768,
+   769,
+   865,
+   1057
+  ],
+  "enemy_color": [
+   [
+    255,
+    141,
+    141
+   ],
+   [
+    255,
+    141,
+    142
+   ]
+  ]
+ },
+ "m": {
+  "telegram_id": 571684254,
+  "password": "boni8813",
+  "tesseract": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "way": "C:/Program Files (x86)/World of Warcraft/_retail_/Wow.exe",
+  "map_center": [
+   1786,
+   133
+  ],
+  "hp_color": [
+   23,
+   137,
+   255,
+   255
+  ],
+  "hp_position": [
+   562,
+   937
+  ],
+  "hp_position2": [
+   937,
+   938,
+   561,
+   817
+  ],
+  "pocopoc_color": [
+   89,
+   188,
+   88,
+   255
+  ],
+  "pocopoc_position": [
+   1200,
+   930
+  ],
+  "combat_color": [
+   207,
+   13,
+   255
+  ],
+  "combat_position": [
+   1884,
+   800
+  ],
+  "scull_color": [
+   207,
+   13,
+   255
+  ],
+  "scull_position": [
+   1808,
+   770
+  ],
+  "astral_color": [
+   90,
+   58,
+   47,
+   255
+  ],
+  "astral_position": [
+   763,
+   764,
+   860,
+   1061
+  ],
+  "enemy_color": [
+   [
+    255,
+    141,
+    141
+   ],
+   [
+    255,
+    141,
+    142
+   ]
+  ]
+ }
+}
