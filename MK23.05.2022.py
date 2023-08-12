@@ -16,7 +16,7 @@ import json
 import pytesseract
 
 def load_profile():
-    with open("Profile.json", "r", encoding="utf-8") as file_profile:
+    with open("profile.json", "r", encoding="utf-8") as file_profile:
         file_user = json.load(file_profile)
         file_profile.close()
         if file_user["profile"] == "k":
@@ -45,7 +45,7 @@ class Player:
         self.multiplier_location_x = multiplier_location_x
         self.multiplier_location_y = multiplier_location_y
 
-        self.list_coordinates = Player.target_coordinates('Coordinat_2.txt')
+        self.list_coordinates = Player.target_coordinates('coordinat.txt')
 
         self.original_elusive_rich_elethium_deposit = Player.target_coordinates('Resources\Elusive_Rich_Elethium_Deposit(197).txt')
         self.elusive_rich_elethium_deposit = copy.copy(self.original_elusive_rich_elethium_deposit)
@@ -143,7 +143,7 @@ class Player:
         all_error = f"{time_error}  {line[1]} >>> {ex}" + "\n"
         print(f"{time_error}  {line[1]} >>> {ex}")
         if write == "yes":
-            with open("Error.txt", "a", encoding="utf-8") as error:
+            with open("error.txt", "a", encoding="utf-8") as error:
                 error.write(all_error)
 
     def find_error(self):
@@ -1194,7 +1194,7 @@ class Monitor:
             if time1 > 8:
                 print("Принудительно останавливаю спуск")
                 keyboard.release("x")
-                with open("Error.txt", "a", encoding="utf-8") as error:
+                with open("error.txt", "a", encoding="utf-8") as error:
                     error.write(f"{datetime.datetime.now().strftime(' %H: %M: %S')} >>> Принудительная остановка спуска" + "\n")
                 return 5
 
@@ -1584,7 +1584,7 @@ class Monitor:
                 pyautogui.click(x, y)
                 time.sleep(0.5)
                 self.res += 1
-                with open("Grab_Resurses.txt", "w", encoding="utf-8") as dead:
+                with open("grab_resurses.txt", "w", encoding="utf-8") as dead:
                     dead.write(f"Время старта: {start_time} Время завершения: {datetime.datetime.now().strftime('%H:%M:%S')} = {self.res}" + "\n")
                     dead.close()
                 pyautogui.click(x, y)
@@ -1878,7 +1878,7 @@ class Combat:
                         pass
                     combat.get_info_in_combat()
                     combat.telegram()
-                    with open("Dead_Logs.txt", "a", encoding="utf-8") as dead:
+                    with open("dead_logs.txt", "a", encoding="utf-8") as dead:
                         dead.write(f"{datetime.datetime.now().strftime('%H:%M:%S')} - Бой завершился: здоровье = {self.hp}" + "\n")
 
         else:

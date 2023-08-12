@@ -2,8 +2,8 @@
  "profile": "k",
  "k": {
   "bot_id": "",
-  "telegram_id": 1059208615,
-  "password": "pristxolidc2013",
+  "telegram_id": "YOUR_TG_ID",
+  "password": "YOUR_GAME_PASS",
   "tesseract": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
   "way": "D:/Games/World of Warcraft/_retail_/Wow.exe",
   "map_center": [
@@ -80,8 +80,8 @@
   ]
  },
  "m": {
-  "telegram_id": 571684254,
-  "password": "boni8813",
+  "telegram_id": "YOUR_TG_ID",
+  "password": "YOUR_GAME_PASS",
   "tesseract": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
   "way": "C:/Program Files (x86)/World of Warcraft/_retail_/Wow.exe",
   "map_center": [
